@@ -1,14 +1,13 @@
 # breast-cancer-detection
 Breast Cancer Detection using Machine Learning is a machine-learning project designed to classify breast tumor data into two categories: Benign and Malignant. The project processes numerical tumor features, prepares the dataset, standardizes the data, and trains a Logistic Regression classification model. 
 # Breast Cancer Detection Using Machine Learning
-
-## 📌 Project Overview
+## 1 Project Overview
 
 Breast Cancer Detection is a machine-learning project that predicts whether a breast tumor is **Benign** or **Malignant** based on numerical tumor characteristics.
 
 The project uses **Logistic Regression**, a classification algorithm suitable for binary classification problems.
 
-## 🎯 Objectives
+## 2 Objectives
 
 * Understand and analyze breast tumor data.
 * Check and prepare the dataset.
@@ -19,14 +18,14 @@ The project uses **Logistic Regression**, a classification algorithm suitable fo
 * Predict tumor classification.
 * Evaluate the performance of the model.
 
-## 🛠️ Technologies Used
+## 3 Technologies Used
 
 * **Python**
 * **Pandas** – Data handling and analysis
 * **Matplotlib** – Data visualization
 * **Scikit-learn** – Machine learning and model evaluation
 
-## 📂 Project Files
+## 4 Project Files
 
 ```text
 Breast_Cancer_Detection/
@@ -56,7 +55,7 @@ The target variable is **diagnosis**, which contains two classes:
 * **Benign**
 * **Malignant**
 
-## 🔄 Project Workflow
+## 5 Project Workflow
 
 1. Load the dataset using Pandas.
 2. Display the first few records.
@@ -71,7 +70,7 @@ The target variable is **diagnosis**, which contains two classes:
 11. Generate a classification report and confusion matrix.
 12. Visualize selected tumor features.
 
-## 🤖 Machine Learning Algorithm
+## 6 Machine Learning Algorithm
 
 ### Logistic Regression
 
@@ -79,7 +78,7 @@ Logistic Regression is used to classify the tumors into two categories: **Benign
 
 The data is standardized before training so that features with different numerical scales can be handled effectively by the model.
 
-## 📈 Model Evaluation
+## 7 Model Evaluation
 
 The project evaluates the model using:
 
@@ -89,7 +88,7 @@ The project evaluates the model using:
 
 These metrics help measure how well the model performs on previously unseen test data.
 
-## 📉 Visualization
+## 8 Visualization
 
 The program creates a scatter plot showing the relationship between:
 
@@ -102,7 +101,7 @@ The generated image is saved as:
 breast_cancer_features.png
 ```
 
-## ⚙️ Installation
+## 9 Installation
 
 Make sure Python is installed on your computer.
 
@@ -112,7 +111,7 @@ Install the required libraries using:
 pip install -r requirements.txt
 ```
 
-## ▶️ How to Run
+## 10 How to Run
 
 Open a terminal in the project folder and run:
 
