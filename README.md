@@ -1,6 +1,6 @@
 # breast-cancer-detection
 Breast Cancer Detection using Machine Learning is a machine-learning project designed to classify breast tumor data into two categories: Benign and Malignant. The project processes numerical tumor features, prepares the dataset, standardizes the data, and trains a Logistic Regression classification model. 
-# Breast Cancer Detection Using Machine Learning
+
 ## 1 Project Overview
 
 Breast Cancer Detection is a machine-learning project that predicts whether a breast tumor is **Benign** or **Malignant** based on numerical tumor characteristics.
