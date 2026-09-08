@@ -36,7 +36,7 @@ Breast_Cancer_Detection/
 └── README.md
 ```
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains numerical measurements related to breast tumors, including features such as:
 
